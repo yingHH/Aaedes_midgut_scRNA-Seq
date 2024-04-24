@@ -11,7 +11,7 @@ Analysis scripts for the article:<br>
 - `3.merge_rep`: folder for results of single-cell integration analyses combining replicate 1 and replicate 2.
 - `4.merge_subset`: folder for subclassification results of clusters 1, 2 and 3 after single-cell integration fractionation.
 - `5.replot`: folder for final clustering results, specifically expressed gene results, etc. after integrating single-cell data.
-- 
+
 ### Sub-directories
 - `mark_doublet`: folder for marking the doublets. It is a subfolder of `1.scdata_rep1` and `2.scdata_rep2`.
 - `plots`: folders for result plots for QC, clustering, etc. It is a subfolder of `replot`.
